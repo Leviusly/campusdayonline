@@ -83,7 +83,7 @@
         {
          "draworder":"topdown",
          "id":3,
-         "name":"floor Layer",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
