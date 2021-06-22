@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.world.hochschule-n-bw.de\/_\/global\/leviusly.github.io\/campusdayonline\/start.json?alone=true."
+                 "value":"start.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -59,7 +59,7 @@
          "name":"B\u00fchne, T\u00fcren, Ballons, St\u00fchle, Teppich, Feuerl\u00f6scher, Tische",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
