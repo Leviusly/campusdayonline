@@ -466,7 +466,7 @@
         {
          "columns":1,
          "firstgid":3509,
-         "image":"start tilesets\/arrow_simple_#ac3232_right.png",
+         "image":"start tilesets\/arrow_simple_right.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -479,7 +479,7 @@
         {
          "columns":1,
          "firstgid":3510,
-         "image":"start tilesets\/arrow_simple_#ac3232_up.png",
+         "image":"start tilesets\/arrow_simple_up.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -492,7 +492,7 @@
         {
          "columns":1,
          "firstgid":3511,
-         "image":"start tilesets\/arrow_daigonal_simple_#ac3232_right.png",
+         "image":"start tilesets\/arrow_daigonal_simple_right.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
