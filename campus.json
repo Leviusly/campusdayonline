@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"..\/FINALtestmap\/campus.json"
+        }
+    },
  "height":60,
  "infinite":false,
  "layers":[
