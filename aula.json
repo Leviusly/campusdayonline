@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"start.json"
+                 "value":"https:\/\/play.world.hochschule-n-bw.de\/_\/global\/leviusly.github.io\/campusdayonline\/start.json?alone=true."
                 }],
          "type":"tilelayer",
          "visible":true,
