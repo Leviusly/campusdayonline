@@ -48,7 +48,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exiUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"campus.json"
                 }],
