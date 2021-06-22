@@ -30,7 +30,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exiturl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.world.hochschule-n-bw.de\/_\/global\/leviusly.github.io\/campusdayonline\/start.json?alone=true."
                 }],
@@ -47,7 +47,7 @@
          "name":"Boden & Wand",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
